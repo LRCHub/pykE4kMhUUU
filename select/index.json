@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "base_track": "フューチャー・イヴ - FUTURE EVE (合作演出：Hatsune Miku)",
+  "base_track": "フューチャー・イヴ - Future Eve (合作演出：初音未來)",
   "base_artist": "sasakure.UK",
-  "createdAt": "2026-02-13T17:22:40.386208Z",
+  "createdAt": "2026-02-15T18:49:56.022537Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -63,50 +63,50 @@
     {
       "id": "lrclib_8",
       "source": "lrclib",
-      "title": "フューチャー・イヴ (feat. Hatsune Miku)",
-      "artist": "sasakure.UK",
-      "has_synced": false,
-      "path": "select/08_フューチャー・イヴ_(feat._Hatsune_Miku)_sasakure.UK.txt"
+      "title": "フューチャー・イヴ",
+      "artist": "sasakure.UK feat. 初音ミク",
+      "has_synced": true,
+      "path": "select/08_フューチャー・イヴ_sasakure.UK_feat._初音ミク.lrc"
     },
     {
       "id": "lrclib_9",
       "source": "lrclib",
       "title": "フューチャー・イヴ",
-      "artist": "sasakure.UK feat. 初音ミク",
-      "has_synced": true,
-      "path": "select/09_フューチャー・イヴ_sasakure.UK_feat._初音ミク.lrc"
+      "artist": "Hatsune Miku (初音ミク)",
+      "has_synced": false,
+      "path": "select/09_フューチャー・イヴ_Hatsune_Miku_(初音ミク).txt"
     },
     {
       "id": "lrclib_10",
       "source": "lrclib",
-      "title": "フューチャー・イヴ",
-      "artist": "Hatsune Miku (初音ミク)",
+      "title": "フューチャー・イヴ (feat. 初音ミク)",
+      "artist": "sasakure.UK",
       "has_synced": false,
-      "path": "select/10_フューチャー・イヴ_Hatsune_Miku_(初音ミク).txt"
+      "path": "select/10_フューチャー・イヴ_(feat._初音ミク)_sasakure.UK.txt"
     },
     {
       "id": "lrclib_11",
       "source": "lrclib",
       "title": "フューチャー・イヴ (feat. 初音ミク)",
       "artist": "sasakure.UK",
-      "has_synced": false,
-      "path": "select/11_フューチャー・イヴ_(feat._初音ミク)_sasakure.UK.txt"
+      "has_synced": true,
+      "path": "select/11_フューチャー・イヴ_(feat._初音ミク)_sasakure.UK.lrc"
     },
     {
       "id": "lrclib_12",
       "source": "lrclib",
       "title": "フューチャー・イヴ (feat. 初音ミク)",
-      "artist": "sasakure.UK",
-      "has_synced": true,
-      "path": "select/12_フューチャー・イヴ_(feat._初音ミク)_sasakure.UK.lrc"
+      "artist": "sasakure.UK; Hatsune Miku",
+      "has_synced": false,
+      "path": "select/12_フューチャー・イヴ_(feat._初音ミク)_sasakure.UK;_Hatsune_Miku.txt"
     },
     {
       "id": "lrclib_13",
       "source": "lrclib",
-      "title": "フューチャー・イヴ (feat. 初音ミク)",
-      "artist": "sasakure.UK; Hatsune Miku",
+      "title": "フューチャー・イヴ (feat. Hatsune Miku)",
+      "artist": "sasakure.UK",
       "has_synced": false,
-      "path": "select/13_フューチャー・イヴ_(feat._初音ミク)_sasakure.UK;_Hatsune_Miku.txt"
+      "path": "select/13_フューチャー・イヴ_(feat._Hatsune_Miku)_sasakure.UK.txt"
     },
     {
       "id": "lrclib_14",
