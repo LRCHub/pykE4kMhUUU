@@ -1,4 +1,4 @@
-# sasakure.UK – フューチャー・イヴ - FUTURE EVE (合作演出：Hatsune Miku)
+# sasakure.UK – フューチャー・イヴ - Future Eve (合作演出：初音未來)
 
 > **歌詞登録ステータス：同期歌詞あり**
 
